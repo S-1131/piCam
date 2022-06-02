@@ -1,7 +1,11 @@
-# Notes on working with camera and raspberry pi
+# piCam
 
+Just a little project I'm working on.
 
-ip for pi - 192.168.1.17
+Goal is to use my desktop webcam with a raspberry pi zero w to watch my cat
+remotely. Easy peasy.
+
+<!--ip for pi - 192.168.1.17-->
 
 ## controlling the webcam
 
